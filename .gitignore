@@ -1,0 +1,7 @@
+nwpEnv
+main.py
+app.db
+freeze.py
+vercel.json
+__pycache__
+env
