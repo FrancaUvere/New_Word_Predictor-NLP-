@@ -97,3 +97,4 @@ Press CTRL+C to quit
 `It should be noted that this model is made to function on user previous input, but predictions will still be made.`
 `To save your user input, click the 'Clear the textarea' button.`
 `If any error is given, please, retake the steps`
+`This project was underataken by a software engineer (me) and a machine leaners. The machine-learning engineer was responsible for the training of the model. 
